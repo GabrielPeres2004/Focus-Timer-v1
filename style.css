@@ -79,10 +79,10 @@ button{
 
 .running .ph-play-circle,
 .running .ph-timer,
-.musicon .ph-speaker-none,
+.music-on .ph-speaker-none,
 html:not(.running) .ph-pause-circle,
 html:not(.running) .ph-stop-circle,
-html:not(.musicon) .ph-speaker-high{
+html:not(.music-on) .ph-speaker-high{
     display: none;
 }
 
